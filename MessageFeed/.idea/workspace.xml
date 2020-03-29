@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35f36012-09a4-46ba-b27e-0953ce8bda32" name="Default Changelist" comment="" />
+    <list default="true" id="35f36012-09a4-46ba-b27e-0953ce8bda32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BookTutorial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/message/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/message/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZgFWasK3txcdVQJrAsfQySME0O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,8 +37,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -40,7 +49,7 @@
       <recent name="C:\Users\janos\PycharmProjects\djangoProjects\MessageFeed\MessageFeed" />
     </key>
   </component>
-  <component name="RunManager" selected="Django tests.Test: templates">
+  <component name="RunManager" selected="Django server.MessageFeed">
     <configuration name="Test: templates" type="DjangoTestsConfigurationType" temporary="true">
       <module name="MessageFeed" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +77,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\janos\PycharmProjects\djangoProjects\MessageFeed\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\janos\PycharmProjects\BookTutorial\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -106,6 +115,8 @@
       <updated>1585252862603</updated>
       <workItem from="1585252967229" duration="36000" />
       <workItem from="1585253044784" duration="5678000" />
+      <workItem from="1585305235742" duration="116000" />
+      <workItem from="1585306219000" duration="3563000" />
     </task>
     <servers />
   </component>
@@ -117,14 +128,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="45" key="#MessageFeed/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585256520816" />
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585256577139">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585306298454">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585256577139" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585256571728">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585306298454" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585306444575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585256571728" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585306444575" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585258747107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -141,10 +152,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585258747107" />
-    <state x="279" y="58" key="SettingsEditor" timestamp="1585256575195">
+    <state x="279" y="58" key="SettingsEditor" timestamp="1585306456802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="279" y="58" key="SettingsEditor/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585256575195" />
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824/-1600.0.1600.1160@0.0.1536.824" timestamp="1585306456802" />
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585253049820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
